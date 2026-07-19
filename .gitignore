@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test outputs and scan results
+test_output.json
+*.json
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
