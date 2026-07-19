@@ -218,4 +218,4 @@ This project is licensed under the terms of the MIT License. See the [LICENSE](L
 
 ## 👤 Author
 
-* **Joel Kirubainathan** - *Primary Author / Maintainer* - [GitHub](https://github.com/joelkirubainathan)
+* **Joel Kirubainathan** - *Author / Maintainer* - [GitHub](https://github.com/joelkirubainathan)
